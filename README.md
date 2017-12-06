@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/JESUSANSWERS777/apiai-open-bible-bot.png?columns=all)](https://waffle.io/JESUSANSWERS777/apiai-open-bible-bot?utm_source=badge)
 # API.ai OpenBible Bot
 
 This bot retrieves scriptural references from OpenBibleSearch.com
